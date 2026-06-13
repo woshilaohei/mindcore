@@ -2,7 +2,7 @@
 
 > Complete Design Blueprint for an AI-native, self-evolving memory architecture
 
-**Author:** 老黑
+**Author:** Lao Hei
 
 **Core Truth:** Trajectory = Boundary = Evolution = Cognition = Boundary *(closed loop)*
 
